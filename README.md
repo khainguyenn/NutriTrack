@@ -31,8 +31,8 @@ NutriTrack is a user-friendly fitness and nutrition app designed to help users m
 
 **Required Must-have Stories**
 
-- [ ]Authentication
-- [ ]HealthKit integration
+- [ ] Authentication
+- [ ] HealthKit integration
     - [ ] Calories tracker
     - [ ] Workout Info
     - [ ] Heartrate
