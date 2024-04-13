@@ -31,26 +31,26 @@ NutriTrack is a user-friendly fitness and nutrition app designed to help users m
 
 **Required Must-have Stories**
 
-* Authentication
-* HealthKit integration
-    *  Calories tracker
-    *  Workout Info
-    *  Heartrate
-* Input foods and nutritional facts provided
-* User recommended calorie, water, and protein intake
+- [ ]Authentication
+- [ ]HealthKit integration
+    - [ ] Calories tracker
+    - [ ] Workout Info
+    - [ ] Heartrate
+- [ ] Input foods and nutritional facts provided
+- [ ] User recommended calorie, water, and protein intake
 
 **Optional Nice-to-have Stories**
 
-* Daily Info is retrievable
-* Steps
-* Sleep
-* Calendar View
-* Habit Tracker
-* Identify foods using Computer Vision
-* Previously Saved data is accessible
-* Goal tracker involved with calendar
-* User can choose what macro nutrients to track
-* Notifications to eat and drink
+- [ ] Daily Info is retrievable
+- [ ] Steps
+- [ ] Sleep
+- [ ] Calendar View
+- [ ] Habit Tracker
+- [ ] Identify foods using Computer Vision
+- [ ] Previously Saved data is accessible
+- [ ] Goal tracker involved with calendar
+- [ ] User can choose what macro nutrients to track
+- [ ] Notifications to eat and drink
 
 ### 2. Screen Archetypes
 
