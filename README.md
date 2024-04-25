@@ -91,8 +91,9 @@ NutriTrack is a user-friendly fitness and nutrition app designed to help users m
 ## Wireframes
 
 ![Wireframes](https://hackmd.io/_uploads/ryIk6BvlR.jpg)
+<img width="920" alt="Screenshot 2024-04-25 at 7 12 22 PM" src="https://github.com/Topusaha/NutriTrack/assets/137203168/2f4a3cff-2d65-4629-ab80-9aac7f6bfeb6">
 
-![NutriTrack.pdf](https://github.com/Topusaha/NutriTrack/files/15123008/NutriTrack.pdf)
+
 
 ## Schema 
 
