@@ -54,9 +54,9 @@ NutriTrack is a user-friendly fitness and nutrition app designed to help users m
 
 ### 2. Screen Archetypes
 
-- [ ] Login Screen
+- [x] Login Screen
     * User can login
-- [ ] Registration Screen
+- [x] Registration Screen
     * User can create a new account
 - [ ] Stream
     * Overview(Calorie tracker, Workout Info, Heartrate)
@@ -81,10 +81,10 @@ NutriTrack is a user-friendly fitness and nutrition app designed to help users m
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Sign In Screen
+- [x] Sign In Screen
   * Leads to Sign Up Screen
   * Leads to Overview Screen
-- [ ] Sign Up Screen
+- [x] Sign Up Screen
   * Leads to Overview Screen
 
 
